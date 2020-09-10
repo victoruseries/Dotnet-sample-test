@@ -1,0 +1,13 @@
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.exe
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.deps.json
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.runtimeconfig.json
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.runtimeconfig.dev.json
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.dll
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\bin\Debug\netcoreapp3.1\Dotnet-sample-test.pdb
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.csprojAssemblyReference.cache
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.AssemblyInfoInputs.cache
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.AssemblyInfo.cs
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.csproj.CoreCompileInputs.cache
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.dll
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.pdb
+C:\Users\LITE Participant\Documents\Dotnet-sample-test\obj\Debug\netcoreapp3.1\Dotnet-sample-test.genruntimeconfig.cache
